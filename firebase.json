@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/bono-mall/index.html",
+    "public": "public",
     "ignore": [
       "firebase.json",
       "**/.*",
